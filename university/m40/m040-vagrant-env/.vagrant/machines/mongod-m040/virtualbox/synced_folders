@@ -1,0 +1,1 @@
+{"virtualbox":{"/shared":{"create":true,"guestpath":"/shared","hostpath":"/Users/Michal/mongoDB/university/m40/m040-vagrant-env/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Michal/mongoDB/university/m40/m040-vagrant-env","disabled":false,"__vagrantfile":true}}}
